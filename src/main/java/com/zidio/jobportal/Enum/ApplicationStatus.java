@@ -1,0 +1,7 @@
+package com.zidio.jobportal.Enum;
+
+public enum ApplicationStatus {
+	PENDING, UNDER_REVIEW, SHORTLISTED, CONTACTED_BY_EMAIL, 
+	INTERVIEW_SCHEDULED, REJECTED,HIRED,WITHDRAWN, APPLIED;
+
+}
